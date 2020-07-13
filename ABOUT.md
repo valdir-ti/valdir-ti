@@ -20,4 +20,4 @@ Atualmente eu trabalho como **[Analista de sistemas]**. Atuo como desenvolvedor 
 
 Obrigado por visitar o meu espaço no [GitHub](https://github.com/valdir-ti)! :v:
 
-[![github.com/valdir-ti](https://avatars1.githubusercontent.com/u/11434239?s=460&u=83d59b5961df387b6105f7e3432f832f67080fd7&v=4)](https://github.com/valdir-ti)
+[![github.com/valdir-ti](https://avatars2.githubusercontent.com/u/11434239?s=60&v=4)](https://github.com/valdir-ti)
