@@ -4,8 +4,10 @@
 
 | :hash: | Project | Description | Repo Link |
 |:--------:|---------|-------------|-----------|
-| :one: | [API Weather](https://github.com/valdir-ti/api-weather/)| <br> **Monitoramento de temperatura** utilizando o React: [API]<br><br> | [@valdir-ti/api-weather](https://github.com/valdir-ti/api-weather) |
+| :one: | [Netflix Clone](https://github.com/valdir-ti/netflix-clone/)| <br> **Netflix Clone** utilizando o React e Firebase:<br><br> | [@valdir-ti/netflix-clone](https://github.com/valdir-ti/netflix-clone) |
 | :two: | [Corona-v](https://github.com/valdir-ti/corona-v/) | <br> Estatíticas gerais sobre o **Corona Vírus** por país, tendo como base o React. <br><br> | [@valdir-ti/corona-v](https://github.com/valdir-ti/corona-v) |
+| :three: | [API Weather](https://github.com/valdir-ti/api-weather/)| <br> **Monitoramento de temperatura** utilizando o React: [API]<br><br> | [@valdir-ti/api-weather](https://github.com/valdir-ti/api-weather) |
+
 
 
 
