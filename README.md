@@ -19,11 +19,11 @@ I am a **scholar** and **dedicated** software engineer :dart:.
 Outside of [GitHub](https://github.com/valdir-ti/), you can find me on:
 
 <a href="https://www.linkedin.com/in/valdirti/">
-  <code><img alt="My linkedin" title="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" title="My linkedin" width="28" src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-linkedin-social-media-justicon-flat-justicon.png" /></code>
 </a>
 
 <a href="mailto:valdir.ti@gmail.com">
-  <code><img alt="My e-mail" title="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" title="My e-mail" width="32" src="https://img.icons8.com/stickers/100/000000/gmail-new.png" /></code>
 </a>
 
 <br/><br/>
@@ -39,7 +39,7 @@ Outside of [GitHub](https://github.com/valdir-ti/), you can find me on:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" title="CSS3"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-<code><img height="32" src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" title="Material UI"/></code>
+<code><img height="32" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" title="Material UI"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" title="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
