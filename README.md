@@ -43,7 +43,7 @@ Outside of [GitHub](https://github.com/valdir-ti/), you can find me on:
 <code><img height="32" src="https://img.icons8.com/color/48/000000/maria-db.png" alt="MySQL" title="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" title="PostegreSQL"/></code>
 <code><img height="38" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
-<code><img height="38" src="[https://img.icons8.com/color/48/000000/mongodb.png](https://icons8.com.br/icon/Rc0Xn5AtE8kX/python)" alt="Python" title="Pyhton"/></code>
+<code><img height="38" src="https://icons8.com.br/icon/Rc0Xn5AtE8kX/python" alt="Python" title="Pyhton"/></code>
 
 **Utilities**
 
@@ -54,7 +54,7 @@ Outside of [GitHub](https://github.com/valdir-ti/), you can find me on:
 <code><img height="32" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" alt="MySQL Workbench" title="MySQL Workbench"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lMBXgcHDt3djUAO6zkkR1R_GmdRB2Q1mbg&usqp=CAU" alt="Sequelize" title="Sequelize"/></code>
 <code><img height="32" src="https://avatars2.githubusercontent.com/u/20165699?s=400&v=4" alt="Type ORM" title="Type ORM"/></code>
-<code><img height="32" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/753px-Google_%22G%22_Logo.svg.png](https://icons8.com.br/icon/ejub91zEY6Sl/chrome)" alt="Google Chrome" title="Google Chrome"/></code>
+<code><img height="32" src="https://icons8.com.br/icon/ejub91zEY6Sl/chrome" alt="Google Chrome" title="Google Chrome"/></code>
 
 **DevOps**
 
