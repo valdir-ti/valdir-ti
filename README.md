@@ -43,7 +43,7 @@ Outside of [GitHub](https://github.com/valdir-ti/), you can find me on:
 <code><img height="32" src="https://img.icons8.com/color/48/000000/maria-db.png" alt="MySQL" title="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" title="PostegreSQL"/></code>
 <code><img height="38" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
-<code><img height="38" src="" alt="Python" title="Pyhton"/></code>
+<code><img width="32" height="32" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/></code>
 
 **Utilities**
 
